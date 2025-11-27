@@ -1,15 +1,3 @@
----
-# yaml-language-server: $schema=schemas/page.schema.json
-Object type:
-    - Page
-Tag:
-    - ENG
-    - Python IN Fabric
-Creation date: "2025-11-27T16:16:00Z"
-Created by:
-    - Grand Lion
-id: bafyreihd5ztrmloitc5jxdehqitufsq422izoayhlwitcmaalcetb4fbi4
----
 # 🧱0️⃣ [Python in Fabric] LELI5: Fabric + Python = Easy Pipeline? (W4TT special)   
 *If you hate pointless steps or endless instructions, this is your no-BS zone.*   
  --- 
